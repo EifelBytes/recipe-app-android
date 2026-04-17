@@ -1,0 +1,1 @@
+// Root build file is intentionally left minimal because plugins are declared in module build scripts.
